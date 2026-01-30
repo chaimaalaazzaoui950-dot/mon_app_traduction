@@ -1,0 +1,12 @@
+streamlit 
+torch
+transformers 
+docx 
+fpdf 
+modules
+pdfplumber
+gtts
+numpy  
+PIL
+easyocr
+whisper   
