@@ -1,12 +1,14 @@
-streamlit 
-torch
-transformers 
-docx 
-fpdf 
-modules
+streamlit
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+python-docx
+fpdf2
 pdfplumber
-gtts
-numpy  
-PIL
+gTTS
+numpy
+Pillow
 easyocr
-whisper   
+openai-whisper
+sentencepiece
+protobuf
+   
